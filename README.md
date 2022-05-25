@@ -1,16 +1,21 @@
-### Hi there 👋
+# `> My Main Project`
+[Mewdeko (Discord Bot)](https://github.com/Sylveon76/Mewdeko)
 
-<!--
-**Sylveon76/Sylveon76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ # `> My Api Wrappers`
 
-Here are some ideas to get you started:
+- [NHentaiApi](https://github.com/Sylveon76/NHentaiAPI)
+- [Nekos.Best API](https://github.com/Sylveon76/Nekos.Best-API)
+- [MartineAPI](https://github.com/Sylveon76/MartineApi.Net)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# `> My Github Stats`
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Sylveon76)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylveon76)
+
+# `> Where you can contact/find me`
+
+- Discord: [Sylveon#0069](https://discord.com/users/280835732728184843)
+- Discord Server: [Mewdeko's Clubhouse](https://discord.gg/mewdeko)
+- Linkedin: [Eugene Vernik](https://www.linkedin.com/in/eugene-vernik-31526a1b4/)
+- Email: [sylveon@mewdeko.tech](mailto://sylveon@mewdeko.tech)
