@@ -1,3 +1,6 @@
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B03QN1K)
+
 # `> My Main Project`
 [Mewdeko (Discord Bot)](https://github.com/Sylveon76/Mewdeko)
 
